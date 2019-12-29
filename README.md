@@ -3,7 +3,7 @@
 
 1º.-CONSULTA comando whois
 
-whois 1.1.1.1 |greo descr: 
+whois 1.1.1.1 |grep descr: 
 
 2.- CONSULTA IP registrada en Web de RIPE:
 
