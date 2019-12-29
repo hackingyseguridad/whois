@@ -5,6 +5,6 @@ echo
 
 for i in `cat ip.txt`
 do
-        echo $i
+        echo "--------------------------------------------------------------" & echo "IP" $i & host $i
         sudo whois $i |grep descr:
 done
