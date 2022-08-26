@@ -10,5 +10,6 @@ do
         sudo whois $i |grep descr:
         nmap $i -Pn -sT -p 443,8443,8080,8888 --open --script=ssl-cert |grep DNS:
         nmap $1 -sL -R --dns-servers 194.179.1.100
+        nmap $i -Pn -sT -p0 --script=whois-ip --script-args whodb=nofile
 done
 
