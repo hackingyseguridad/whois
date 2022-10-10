@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # (c) hacking y seguridad .com 2022
 echo "=================================================================" & echo "IP" $1 & host $1; dig -x $1 +short;
 sudo whois $1 |grep descr:
