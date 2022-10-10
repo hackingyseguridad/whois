@@ -1,5 +1,5 @@
 #!/bin/bash
-#!/bin/bash
+# (c) hacking y seguridad .com 2022
 # Extraer el titualar de IP con whois
 # Listado de IP en fichero ip.txt
 echo
