@@ -6,6 +6,7 @@ echo
 
 for i in `cat ip.txt`
 do
+        echo
         echo "--------------------------------------------------------------" & echo "IP  ===> " $i " <===" & host $i; dig -x $i +short;
         sudo whois $i |grep descr:
         nmap $i $2 -Pn -sT -R --dns-servers 194.179.1.100  -p 443,8443,8080,8888,10443 --open --script=ssl-cert -oG resultado.txt | grep "Nmap\|DNS:"
