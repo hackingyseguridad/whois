@@ -1,0 +1,3 @@
+
+
+shodan host $1
