@@ -1,5 +1,7 @@
 #!/bin/bash
-# (c) Hacking y Seguridad .com 2023
+# (C) Hacking y Seguridad .Com Noviembre 2023
+# ALDEA DEL FRESNO ( MADRID )
+# Extraer el titualar de IP con whois
 echo && echo "--------------------------------------------------------------" & echo "IP  ===> " $i " <===" && echo "--------------------------------------------------------------" & host $i; dig -x $i +short;
 sudo whois $i |grep descr:
 nmap $i $2 -Pn -sT -R --dns-servers 80.58.104.181 -p  110,993,995,143,443,587,465,8000,7443,8443,8080,8888,10443 --open --script=ssl-cert -oG resultado.txt | grep "Nmap\|DNS:"
