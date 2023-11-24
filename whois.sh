@@ -1,6 +1,6 @@
 #!/bin/bash
 # (C) Hacking y Seguridad .Com Noviembre 2023
-# ALDEA DEL FRESNO ( MADROD )
+# ALDEA DEL FRESNO ( MADRID )
 # Extraer el titualar de IP con whois
 # Listado de IP en fichero ip.txt
 echo
