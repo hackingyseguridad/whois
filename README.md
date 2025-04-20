@@ -1,4 +1,4 @@
-# whois
+## whois
 
 
 1º.-CONSULTA comando whois
