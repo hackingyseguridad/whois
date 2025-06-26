@@ -30,6 +30,10 @@ https://hunter.io/search/telefonica.es
 
 
 + https://fofa.info (Threat Intelligence)
+
+https://en.fofa.info/
+
+
 https://zoomeye.org (Threat Intelligence)
 
 https://urlscan.io (Threat Intelligence)
