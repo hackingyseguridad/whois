@@ -29,16 +29,15 @@ https://www.criminalip.io/asset/report/95.124.251.24
 
 https://hunter.io/search/telefonica.es
 
-
-+ https://fofa.info (Threat Intelligence)
-
-https://en.fofa.info/
++ https://en.fofa.info/ (Threat Intelligence)
 
 https://en.fofa.info/result?qbase64=b3JnPSJUZWxlZm9uaWNhIERlIEVzcGFuYSBTLmEudS4iICYmIHByb3RvY29sPSJzc2gi
 
-https://zoomeye.org (Threat Intelligence)
++ https://zoomeye.org (Threat Intelligence)  IPv6
 
-https://urlscan.io (Threat Intelligence)
-https://crt.sh (Certificate Search)
-https://vulners.com (Vulnerabilities)
++ https://urlscan.io (Threat Intelligence)
+
++ https://crt.sh (Certificate Search)
+
++ https://vulners.com (Vulnerabilities)
 
