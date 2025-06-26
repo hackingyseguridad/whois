@@ -15,9 +15,7 @@ site:telefonica.com filetype:pdf
 
 + https://search.censys.io/ (Server)
 
-
-
-
+https://platform.censys.io/hosts/2.139.188.177
 
 
 
