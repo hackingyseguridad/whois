@@ -22,6 +22,7 @@ host.services.port = 22
 + https://www.criminalip.io (Threat Intelligence)
 
 https://www.criminalip.io/asset/report/2.139.188.177
+https://www.criminalip.io/asset/report/95.124.251.24
 
 + https://fofa.info (Threat Intelligence)
 https://zoomeye.org (Threat Intelligence)
