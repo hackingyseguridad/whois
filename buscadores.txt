@@ -2,7 +2,11 @@
 
 https://shodan.io (Server)
 
+2.139.188.177
+80.24.112.95
+
 port:500 country:"ES" org:"TELEFONICA"
+
 
 https://www.google.com/search?q=google.com (Dorks)
 
