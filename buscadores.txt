@@ -1,4 +1,4 @@
-
+Buscadores y Dorks
 
 + https://shodan.io (Server)
 
@@ -11,8 +11,7 @@ port:500 country:"ES" org:"TELEFONICA"
 
 site:telefonica.com title "telefonica | login"
 
-site:telefonica.com filetype pdf
-
+site:telefonica.com filetype:pdf
 
 https://censys.io (Server)
 https://www.criminalip.io (Threat Intelligence)
