@@ -20,7 +20,10 @@ https://platform.censys.io/hosts/2.139.188.177
 host.services.port = 22
 
 + https://www.criminalip.io (Threat Intelligence)
-https://fofa.info (Threat Intelligence)
+
+https://www.criminalip.io/asset/report/2.139.188.177
+
++ https://fofa.info (Threat Intelligence)
 https://zoomeye.org (Threat Intelligence)
 https://hunter.io (Email Addresses)
 https://urlscan.io (Threat Intelligence)
