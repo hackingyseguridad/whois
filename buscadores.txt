@@ -40,10 +40,27 @@ https://en.fofa.info/result?qbase64=b3JnPSJUZWxlZm9uaWNhIERlIEVzcGFuYSBTLmEudS4i
 https://www.zoomeye.ai/searchResult?q=Y291bnRyeT0iRVMiICYmIGFzbj0iMzM1MiIgJiYgb3JnPSJURUxFRk9OSUNBIiAmJiBwb3J0PSIyMiI%3D&page=1
 https://www.zoomeye.ai/searchResult?q=Y291bnRyeSA9ICJFUyIgJiYgYXNuID0gIjMzNTIiICYmIHRpdGxlPSJUZWxlZm9uaWNhIg%3D%3D
 
+https://www.cvedetails.com/
+https://urlscan.io (Threat Intelligence)
+https://crt.sh (Certificate Search)
+https://vulners.com (Vulnerabilities)
+...
+https://publicwww.com (Codes Search)
+https://fullhunt.io (Attack Surface)
+https://socradar.io (Threat Intelligence)
+https://binaryedge.io (Attack Surface)
+https://ivre.rocks (Server)
+https://pulsedive.com (Threat Intelligence)
+https://grep.app (Codes Search)
+https://app.binaryedge (Threat Intelligence)
+https://onyphe.io (Server)
+https://viz.greynoise.io (Threat Intelligence)
+...
+https://leakix.net (OSINT)
+https://intelx.io (OSINT)
+https://app.netlas.io (Attack Surface)
+https://searchcode.com (Codes Search)
+...
 
-+ https://urlscan.io (Threat Intelligence)
 
-+ https://crt.sh (Certificate Search)
-
-+ https://vulners.com (Vulnerabilities)
 
